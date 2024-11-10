@@ -6,7 +6,8 @@ public class Test {
         int b=10;
         int c=18;
         int d=21;
-        int res=a+b+c+d;
+        int e =a+b;
+        int res=a+b+c+d+e;
         System.out.println("the result is " +res);
     }
     public static void main(String[] args)
