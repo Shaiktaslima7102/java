@@ -4,8 +4,9 @@ public class Test {
     {
         int a=5;
         int b=10;
-        int c=8;
-        int res=a+b+c;
+        int c=18;
+        int d=21;
+        int res=a+b+c+d;
         System.out.println("the result is " +res);
     }
     public static void main(String[] args)
